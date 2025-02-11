@@ -5,7 +5,6 @@ practicing making a repository for uwrf cids 343
 
 ## Drake Sucks
 
-### CIDS is cool!!!
 
 ### Gooning is Harmful!!!
 
